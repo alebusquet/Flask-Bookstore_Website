@@ -36,7 +36,7 @@
 
   	![Captura de pantalla 2023-06-20 a las 03 47 59](https://github.com/alebusquet/Flask-Bookstore_Website/assets/110254796/69c52c44-fb6b-4949-9701-1acc3fb1b966)
 
-3.	Activacion de MariaDB:
+2.	Activacion de MariaDB:
 
   	Descarga e instalacion de XAMPP (Apache + MariaDB + PHP + Perl)
 
