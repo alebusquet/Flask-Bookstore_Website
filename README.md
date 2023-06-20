@@ -1,6 +1,6 @@
 # Librería en línea, confeccionada con Python y Flask
 
-## Mediante esta librería se puede:
+## Mediante esta librería es posible:
 * Ingresar mediante validación de credenciales
 
 * Categorización de usuarios en Clientes y Administrador
@@ -116,10 +116,21 @@
   ![Captura de pantalla 2023-06-20 a las 12 04 03](https://github.com/alebusquet/Flask-Bookstore_Website/assets/110254796/9d0a4088-3354-43cd-8784-b2ca6e2edb42)
 
 * Desde Administrador:
+
   * Seguimiento de libros vendidos
   * Total de ingresos por cada libro
   * Total de ingresos por el total de libros vendidos
+ 
+  ![Captura de pantalla 2023-06-20 a las 16 32 17](https://github.com/alebusquet/Flask-Bookstore_Website/assets/110254796/8e931694-6c17-4110-a8ce-518451cb4f78)
 
 * Logout del sistema
 
+  ![Captura de pantalla 2023-06-20 a las 16 45 41](https://github.com/alebusquet/Flask-Bookstore_Website/assets/110254796/9f5a261b-e03d-4b55-b07a-075d9756902a)
 
+-------
+
+### De esta manera contamos con una aplicación que:
+
+* Al Cliente le permite ingresar con un código, revisar los libros disponibles, la posibilidad de comprar uno/s y luego verlo/s refleflejado/s en la misma aplicación. Esto le permite llevar un control de los libros adquiridos.
+
+* Al Administrador le permite un control constante sobre qué libros se vendieron, así como conocer los ingresos por cada uno y los ingresos totales.
