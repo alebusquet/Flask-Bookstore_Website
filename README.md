@@ -134,3 +134,15 @@
 * Al Cliente le permite ingresar con un código, revisar los libros disponibles, la posibilidad de comprar uno/s y luego verlo/s refleflejado/s en la misma aplicación. Esto le permite llevar un control de los libros adquiridos.
 
 * Al Administrador le permite un control constante sobre qué libros se vendieron, así como conocer los ingresos por cada uno y los ingresos totales.
+
+#### Es todo. Muchas gracias!
+
+-------
+
+### Autor:
+
+--> Alejandro Busquet
+
+* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
+
+* Mail: <a href="mailto:algabu00@gmail.com" target="_blank">algabu00@gmail.com</a>
