@@ -73,4 +73,4 @@
 
 -------
 
-### Pasamos a ver las funcionalidades de la aplicación confeccionada en Flask:
+### Funcionalidades de la aplicación en Flask
