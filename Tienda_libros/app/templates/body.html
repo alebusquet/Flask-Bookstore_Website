@@ -1,0 +1,14 @@
+{% extends './base.html' %}
+
+
+{% block body %}                    <!--este es para base.html-->
+
+{% include './nav.html' %}          <!--incluimos la barra de navegacion-->
+<div class="container py-3">        <!--py-3 = padding en vertical de 3 unidades => p=padding, y=eje y, 3=las unidades-->
+    {% block container %}           <!--este es para index.html-->
+
+    {% endblock %}
+</div>
+
+{% endblock %}
+

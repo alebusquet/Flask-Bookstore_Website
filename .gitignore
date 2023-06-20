@@ -1,0 +1,13 @@
+# Byte-compiled / Optimized / DLL (Dynamic Link Library)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Enviroments
+Tienda_Libros/venv-Flask/
+.env
+
+Fundamentos
+Tienda_Libros/.python-version
+Zip con Recursos
+*.docx
